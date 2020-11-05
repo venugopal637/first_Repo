@@ -1,1 +1,6 @@
-Hello 2nd file.
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, file 2");
+   return 0;
+}
